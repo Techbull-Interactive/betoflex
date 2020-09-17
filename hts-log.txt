@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Nov 2019 09:26:01 at https://tf.rajuahammad.com/html/agencypoint-preview/demo/black/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tf.rajuahammad.com/html/agencypoint-preview/demo/black/index.html -O1 "C:\Users\Lenovo Pad\Desktop\company_website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:26:25	Error: 	"Not Found" (404) at link https://tf.rajuahammad.com/html/agencypoint-preview/demo/black/assets/css/plugins/owl.video.play.png (from https://tf.rajuahammad.com/html/agencypoint-preview/demo/black/assets/css/plugins/owl.carousel.css)
+09:26:26	Error: 	"Not Found" (404) at link https://tf.rajuahammad.com/html/agencypoint-preview/demo/black/service.html (from https://tf.rajuahammad.com/html/agencypoint-preview/demo/black/service-open.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 87 links scanned, 84 files written (5346563 bytes overall) [5371705 bytes received at 214868 bytes/sec], 29.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
